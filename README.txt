@@ -22,3 +22,5 @@ rules.boardSize=9
 rules.time=10:00+5x0:20
 talk= Hi. I'm MattpkGo Bot
 gameNotes= MattpkGo Bot
+
+MIT license.
